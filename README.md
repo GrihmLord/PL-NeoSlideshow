@@ -8,7 +8,7 @@ PRJCT LAZRUS is a social finance platform that aims to elevate financial literac
 
 - **Interactive Slides:** Slides contain clickable elements that offer more information.
 - **Smooth Transitions:** The slideshow uses CSS transitions for smooth navigation between slides.
-- **Linting Checks:** CSS and JavaScript files have been linted for quality assurance.
+- **Linting Checks:** CSS and JavaScript files have active linting checks for quality assurance.
 
 ## Getting Started
 
