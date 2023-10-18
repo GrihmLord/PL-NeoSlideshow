@@ -1,0 +1,20 @@
+{
+  "name": "neoslideshow",
+  "version": "1.0.0",
+  "description": "PRJCT LAZRUS is a social finance platform that aims to elevate financial literacy within the Black community. This repository houses an interactive slideshow that discusses key financial issues and potential solutions. The project is built using HTML5, CSS3, and JavaScript, and incorporates user-friendly UI elements and linting checks for code quality.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint-js": "eslint .",
+    "lint-css": "stylelint \"*.css\"",
+    "lint-html": "htmlhint \"*.html\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.51.0",
+    "htmlhint": "^1.1.4",
+    "stylelint": "^14.16.1"
+  }
+}
