@@ -24,12 +24,12 @@ You need to have a basic understanding of HTML, CSS, and JavaScript to understan
    git clone <https://github.com/yourusername/PL--NEO---SlideShow-.git>
    ```
 
-2. Open `index.html` in your preferred web browser to view the slideshow.
+2. Open `Pl-SS.html` in your preferred web browser to view the slideshow.
 
 ### How to Run the Slideshow
 
-1. Navigate to the project directory where `index.html` is located.
-2. Double-click on `index.html` to open it with your default web browser.
+1. Navigate to the project directory where `Pl-SS.html` is located.
+2. Double-click on `Pl-SS.html` to open it with your default web browser.
 3. The slideshow will start automatically. Use the "Next" button to manually navigate through the slides, or click on interactive elements to see more information.
 
 #### Main Step: Run the Marp Presentation
