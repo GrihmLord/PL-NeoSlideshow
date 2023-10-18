@@ -8,7 +8,7 @@ PRJCT LAZRUS is a social finance platform that aims to elevate financial literac
 
 - **Interactive Slides:** Slides contain clickable elements that offer more information.
 - **Smooth Transitions:** The slideshow uses CSS transitions for smooth navigation between slides.
-- **Linting Checks:** CSS and JavaScript files have been linted for quality assurance.
+- **Linting Checks:** CSS and JavaScript files have active linting checks for quality assurance.
 
 ## Getting Started
 
@@ -39,6 +39,17 @@ To convert your Markdown presentation into a viewable format, navigate to the di
 ```bash
 marp presentation.md
 ```
+
+### Git Commit Sequence
+
+For beginners, contributors or maintainers, the following Git sequence is recommended:
+
+1. Check for changes: `git status`
+2. Stage changes: `git add .`
+3. Commit changes: `git commit -m "Description of changes"`
+4. Pull latest changes: `git pull origin main`
+5. Resolve conflicts, if any.
+6. Push changes: `git push origin main`
 
 ### Expected Behavior
 
